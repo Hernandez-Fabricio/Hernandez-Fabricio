@@ -20,13 +20,12 @@
   <strong>🎓 Estudiante de Ingeniería en Sistemas en la UTN FRBA</strong>
 </p>
 <p align="left">
-  Actualmente estoy <strong>aprendiendo y desarrollando proyectos</strong> 
-  para poner en práctica mis conocimientos.
-  <br><br>
-  Me interesa <strong>seguir aprendiendo</strong>, 
-  <strong>resolver problemas</strong>, convertir ideas en 
-  <strong>proyectos funcionales</strong>,ganando experiencia
-  en el camino y continuar mejorando mis habilidades
+  Actualmente estoy <strong>aprendiendo y desarrollando proyectos</strong><br>
+  para poner en práctica mis conocimientos.<br>
+  Me interesa <strong>seguir aprendiendo</strong>,<br> 
+  <strong>resolver problemas</strong>, convertir ideas en<br> 
+  <strong>proyectos funcionales</strong>,ganando experiencia<br>
+  en el camino y continuar mejorando mis habilidades<br>
   como futuro ingeniero/Desarrollador.
 </p>
 <br>
