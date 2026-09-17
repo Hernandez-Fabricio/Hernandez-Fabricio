@@ -1,6 +1,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=1000&height=100&lines=fabri@ubuntu:~$+/Hola/ComoEstan/esperoQueBien;fabri@ubuntu:~$/Soy/EstudianteIng.Sistemas;>>>+Siempre+en+busca+de+lo+nuevo.../0"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=1000&height=100&lines=Hola,+Como+estan?<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+;fabri@ubuntu:~$/Soy/EstudianteIng.Sistemas;>>>+Siempre+en+busca+de+lo+nuevo.../0"></a>
 </p>
 <p align="center">
 <br>
