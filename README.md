@@ -20,9 +20,10 @@
   para poner en práctica mis conocimientos.
   <br><br>
   Me interesa <strong>seguir aprendiendo</strong>, 
-  <strong>resolver problemas</strong> y convertir ideas en 
-  <strong>proyectos funcionales</strong>, mientras continúo mejorando 
-  mis habilidades como desarrollador.
+  <strong>resolver problemas</strong>, convertir ideas en 
+  <strong>proyectos funcionales</strong>,ganando experiencia
+  en el camino y continuar mejorando mis habilidades
+  como futuro ingeniero/Desarrollador.
 </p>
 
 <br>
